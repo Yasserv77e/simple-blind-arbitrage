@@ -1,1 +1,12 @@
-
+{
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/latticexyz/foundry-codespace:latest": {}
+  },
+  "customizations": {
+    "vscode": {
+      "settings": {},
+      "extensions": []
+    }
+  }
+}
